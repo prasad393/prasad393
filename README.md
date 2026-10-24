@@ -38,13 +38,10 @@
 **Networking** :
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1572B6?style=for-the-badge)
 ![UDP](https://img.shields.io/badge/UDP-1572B6?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/mqtt-660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Ethernet](https://img.shields.io/badge/Ethernet-1572B6?style=for-the-badge)
 
 **Build & Toolchain** :
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge)
-![Yocto](https://img.shields.io/badge/Yocto-bC4521?style=for-the-badge)
 ![GCC](https://img.shields.io/badge/GCC-A8B9CC?style=for-the-badge)
 ![Cross--Compilation](https://img.shields.io/badge/Cross--Compilation-555555?style=for-the-badge)
 ![GDB](https://img.shields.io/badge/GDB-555555?style=for-the-badge)
@@ -65,11 +62,10 @@
 **Standards & Process** :
 ![ECSS](https://img.shields.io/badge/ECSS-003087?style=for-the-badge)
 ![ISO 26262](https://img.shields.io/badge/ISO%2026262-003087?style=for-the-badge)
-![MISRA](https://img.shields.io/badge/MISRA--C/C++-003087?style=for-the-badge)
+![MISRA c/c++](https://img.shields.io/badge/MISRA--C/C++-003087?style=for-the-badge)
 ![ASPICE](https://img.shields.io/badge/ASPICE-003087?style=for-the-badge)
 
-**IDEs & Dev Tools** :
+**IDEs & vertion control** :
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azure%20devops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
