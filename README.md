@@ -17,7 +17,6 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge)
 ![VxWorks](https://img.shields.io/badge/VxWorks-444444?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/embedded%20linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-bC4521?style=for-the-badge)
 ![PREEMPT_RT](https://img.shields.io/badge/PREEMPT__RT-555555?style=for-the-badge)
 
 **Hardware & Platforms** :
